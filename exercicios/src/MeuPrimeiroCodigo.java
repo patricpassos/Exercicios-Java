@@ -1,5 +1,5 @@
 
-public class meuPrimeiroCodigo {
+public class MeuPrimeiroCodigo {
 
 	public static void main(String[] args) {
 		

@@ -45,7 +45,6 @@ public class Glicose {
 			}
 		} while(resp != 'n');
 		
-
 		sc.close();
 
 	}

@@ -45,6 +45,7 @@ public class AreaTerreno {
 
 		System.out.printf("Área do terreno: %.2f\n", areaTotal);
 		System.out.printf("Preco do terreno: %.2f\n", precoTotal);
+		System.out.println("----");
 
 		sc.close();
 	}

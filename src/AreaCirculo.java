@@ -25,6 +25,7 @@ public class AreaCirculo {
 		
 		double areaDoCirculo = areaCirculo(circulo);
 		System.out.printf("ÁREA = %.3f", areaDoCirculo);
+		System.out.print("------------------------");
 		
 		sc.close();
 	}
